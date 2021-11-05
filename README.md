@@ -1,2 +1,2 @@
-# president
-president the card game
+# President
+some game we played in middle school but online
